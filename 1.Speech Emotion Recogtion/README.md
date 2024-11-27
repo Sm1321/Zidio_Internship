@@ -1,2 +1,2 @@
 #### Speech Recognition
-- With LSTM
+- Speech_Emotion_Recognition(SER) with LSTM

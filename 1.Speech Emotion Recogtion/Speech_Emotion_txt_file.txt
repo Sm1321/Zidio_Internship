@@ -1,7 +1,7 @@
 1.Speech Emotion
 Recognition
 
-Description:-
+ Description:-
 
 Speech Emotion Recognition project
 aims to develop a system capable of
